@@ -75,7 +75,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.2.2)
   jekyll-feed (~> 0.12)
-  jekyll-remote-theme (~> 0.4.3)
+  jekyll-remote-theme
   jekyll-seo-tag (~> 2.8)
   tzinfo (~> 1.2)
   tzinfo-data

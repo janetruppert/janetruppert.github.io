@@ -34,14 +34,23 @@ author: Janet Ruppert
 
 # Specifying custom fields
 copyright: "Janet Ruppert"
+headshot-image: /images/headshot.jpeg
 
 
 # Build settings
+
+remote-theme: jekyll/minima
+
+minima:
+    skin: dark
+
 # Using regular theme.
 #theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
