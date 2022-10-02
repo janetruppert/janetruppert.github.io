@@ -22,10 +22,19 @@ title: Janet Ruppert
 email: janet.ruppert@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
   PhD Candidate in Information Science at CU Boulder
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://janet.wiki/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: astrojanet
-github_username:  janetruppert
+linkedin_username: janet-ruppert-1bb7a1225
+github_username: janetruppert
+
+
+# Specifying regular theme parameters
+author: Janet Ruppert
+
+# Specifying custom fields
+copyright: "Janet Ruppert"
+
 
 # Build settings
 # Using regular theme.
