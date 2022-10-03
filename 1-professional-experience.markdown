@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Professional Experience
+title: Work and Teaching
 permalink: /work/
 image: "/images/professional-experience-photo.JPG"
 ---
 
-I have a background in web development, higher education, and technology evaluation. 
+I am a web developer, educator, and technology evaluator. 
 
 Since 2021 I have worked as a Privacy Policy Evaluator with [Common Sense Media](https://www.commonsensemedia.org/)’s [Privacy Program](https://privacy.commonsense.org/), performing quantitative evaluations of legal policies and publishing written summaries to the program’s website. 
 
