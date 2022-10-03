@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+image: "/images/research-photo.JPG"
 ---
 
 I design and manage qualitative studies end-to-end. In particular, I have experience with interview, ethnographic, and community-based research methods.
