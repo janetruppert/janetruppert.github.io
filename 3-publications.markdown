@@ -6,7 +6,9 @@ permalink: /pubs/
 ### Under review
 * **Ruppert, J.**, Velazquez-Ramos, D., Roque, R., & Shapiro, R. B. (2022, under review). Taking Play and Tinkering Seriously in AI Education: Cases from Drag vs AI Teen Workshops. _Learning, Media, and Technology_.
 * Yu, J., Xu, T., Kelley, C., **Ruppert, J.**, & Roque, R. (2022, under review). Designing and Leveraging Technologies to Support Physical-Activity-based Learning Experiences for Young People: Characteristics and Opportunities. _The Review of Educational Research (RER)_.
-* Darian, S. M., Chauhan, A., Marton, R., **Ruppert, J.**, Anderson, K., Clune, R., Cupchak, M., Gannett, M., Holton, J., Kamas, L., Kibozi-Yocka, J., Mauro-Gallegos, D., Naylor, S., O’Malley, M., Patel, M., Sandberg J., Siegler, T., Tate, R., Temtim, A., Whaley, S., & Voida, A. (2022, under review). Enacting Data Feminism in Advocacy Data Work. In _Proceedings of the ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW)_.
+
+### 2023
+* Darian, S. M., Chauhan, A., Marton, R., **Ruppert, J.**, Anderson, K., Clune, R., Cupchak, M., Gannett, M., Holton, J., Kamas, L., Kibozi-Yocka, J., Mauro-Gallegos, D., Naylor, S., O’Malley, M., Patel, M., Sandberg J., Siegler, T., Tate, R., Temtim, A., Whaley, S., & Voida, A. (2023). Enacting Data Feminism in Advocacy Data Work. In _Proceedings of the ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW)_.
 
 ### 2022
 * Hong, M., Marsh, L., Feuston, J. L., **Ruppert, J.**, Brubaker, J. R., & Szafir, D. A. (2022). Scholastic: Forging Human-AI Collaboration for Inductive and Interpretive Text Analysis. In _Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology (UIST)_.
