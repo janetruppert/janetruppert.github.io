@@ -2,6 +2,7 @@
 layout: page
 title: Organizing
 permalink: /organizing/
+image: "/images/organizing-photo.JPG"
 ---
 
 I have strong personal commitments to justice, which I enact through sustained community engagement in my research and personal work. 

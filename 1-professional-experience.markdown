@@ -2,6 +2,7 @@
 layout: page
 title: Professional Experience
 permalink: /work/
+image: "/images/professional-experience-photo.JPG"
 ---
 
 I have a background in web development, higher education, and technology evaluation. 

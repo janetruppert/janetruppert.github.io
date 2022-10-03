@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { mar
 main { display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
 
 /** Images */
-img { max-width: 100%; vertical-align: middle; }
+img { max-width: 100%; vertical-align: middle; padding: 0px 0px 20px 0px; }
 
 /** Figures */
 figure > img { display: block; }
@@ -31,7 +31,7 @@ a { color: #dcc6e0; text-decoration: none; }
 
 a:visited { color: #be94c5; }
 
-a:hover { color: #f2f1ef; text-decoration: underline; }
+a:hover { color: #ccddc9; text-decoration: underline; }
 
 .social-media-list a:hover { text-decoration: none; }
 
@@ -78,7 +78,7 @@ table td { border: 1px solid white; }
 /** Site header */
 .site-header { border-top: 5px solid #000000; border-bottom: 1px solid white; min-height: 55.95px; position: relative; }
 
-.site-title { font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
+.site-title { font-size: 26px; font-weight: 600; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; text-shadow: 1px 1px 1px #653b6c; }
 
 .site-title, .site-title:visited { color: #be94c5; }
 

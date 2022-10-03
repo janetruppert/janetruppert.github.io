@@ -57,6 +57,7 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
+  padding: 0px 0px 20px 0px;
 }
 
 
@@ -97,8 +98,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
-
-
 /**
  * Links
  */
@@ -111,7 +110,7 @@ a {
   }
 
   &:hover {
-    color: $text-color;
+    color: #ccddc9;
     text-decoration: underline;
   }
 
