@@ -10,6 +10,8 @@ permalink: /pubs/
 ### 2023
 * <span style="color: #be94c5;">**Ruppert, J.**</span>, Velazquez-Ramos, D., Roque, R., & Shapiro, R. B. (2023). <a href="https://doi.org/10.1080/17439884.2022.2164300" target="_blank" rel="noopener noreferrer">Taking Play and Tinkering Seriously in AI Education: Cases from Drag vs AI Teen Workshops</a>. _Learning, Media and Technology_.
 * Darian, S. M., Chauhan, A., Marton, R., <span style="color: #be94c5;">**Ruppert, J.**</span>, Anderson, K., Clune, R., Cupchak, M., Gannett, M., Holton, J., Kamas, L., Kibozi-Yocka, J., Mauro-Gallegos, D., Naylor, S., O’Malley, M., Patel, M., Sandberg J., Siegler, T., Tate, R., Temtim, A., Whaley, S., & Voida, A. (2023). Enacting Data Feminism in Advocacy Data Work. In _Proceedings of the ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW)_.
+* Smith, G., Chapman, K., Agha, Z., <span style="color: #be94c5;">**Ruppert, J.**</span>, Cullen, S., Khan, S., Knijnenburg, B., Vitak, J., Kumar, P., Wisniewski, P., & Page, X. (2023, April 23-28). <a href="https://pie.stapl.cs.byu.edu/" target="_blank" rel="noopener noreferrer">_Privacy Interventions and Education (PIE): Encouraging Privacy Protective Behavioral Change Online_</a>. [Conference workshop]. Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, Hamburg, Germany.
+
 
 ### 2022
 * Hong, M., Marsh, L., Feuston, J. L., <span style="color: #be94c5;">**Ruppert, J.**</span>, Brubaker, J. R., & Szafir, D. A. (2022). <a href="https://doi.org/10.1145/3526113.3545681" target="_blank" rel="noopener noreferrer">Scholastic: Forging Human-AI Collaboration for Inductive and Interpretive Text Analysis</a>. In _Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology (UIST)_. 
@@ -22,7 +24,7 @@ permalink: /pubs/
 * <span style="color: #be94c5;">**Ruppert, J.**</span> (2021, July 25). Sewing and Cybersecurity: Faraday Phone Case Workshop at inventHQ. _Creative Communities_. <a href="https://www.creativecommunities.group/blog/2021/7/25/sewing-and-cybersecurity-faraday-phone-case-workshop-at-inventhq" target="_blank" rel="noopener noreferrer">https://www.creativecommunities.group/blog/2021/7/25/sewing-and-cybersecurity-faraday-phone-case-workshop-at-inventhq</a>
 	    
 ### 2020
-* Yu, J., <span style="color: #be94c5;">**Ruppert, J.**</span>, Roque, R., and Kirshner, B. (2020). Youth civic engagement through computing: cases and implications. _ACM Inroads, 11_(4), 42–51. <a href="https://doi.org/10.1145/3432727" target="_blank" rel="noopener noreferrer">https://doi.org/10.1145/3432727</a>
+* Yu, J., <span style="color: #be94c5;">**Ruppert, J.**</span>, Roque, R., and Kirshner, B. (2020). <a href="https://doi.org/10.1145/3432727" target="_blank" rel="noopener noreferrer">Youth civic engagement through computing: cases and implications</a>. _ACM Inroads, 11_(4), 42–51.
 * Kelly, J. & <span style="color: #be94c5;">**Ruppert, J.**</span> (2020, February 16). Opinion: It’s time for a CU union. _The Colorado Sun_. <a href="https://coloradosun.com/2020/02/16/university-of-colorado-boulder-union-opinion/" target="_blank" rel="noopener noreferrer">https://coloradosun.com/2020/02/16/university-of-colorado-boulder-union-opinion/</a>
 
 ### 2019
