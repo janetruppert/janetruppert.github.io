@@ -8,7 +8,7 @@ permalink: /pubs/
 * Yu, J., Xu, T., Kelley, C., <span style="color: #be94c5;">**Ruppert, J.**</span>, & Roque, R. (2022, _under review_). Designing and Leveraging Technologies to Support Physical-Activity-based Learning Experiences for Young People: Characteristics and Opportunities. _The Review of Educational Research (RER)_.
 
 ### 2023
-* <span style="color: #be94c5;">**Ruppert, J.**</span>, Velazquez-Ramos, D., Roque, R., & Shapiro, R. B. (_forthcoming_). Taking Play and Tinkering Seriously in AI Education: Cases from Drag vs AI Teen Workshops. _Learning, Media and Technology_. 
+* <span style="color: #be94c5;">**Ruppert, J.**</span>, Velazquez-Ramos, D., Roque, R., & Shapiro, R. B. (2023). <a href="https://doi.org/10.1080/17439884.2022.2164300" target="_blank" rel="noopener noreferrer">Taking Play and Tinkering Seriously in AI Education: Cases from Drag vs AI Teen Workshops</a>. _Learning, Media and Technology_.
 * Darian, S. M., Chauhan, A., Marton, R., <span style="color: #be94c5;">**Ruppert, J.**</span>, Anderson, K., Clune, R., Cupchak, M., Gannett, M., Holton, J., Kamas, L., Kibozi-Yocka, J., Mauro-Gallegos, D., Naylor, S., O’Malley, M., Patel, M., Sandberg J., Siegler, T., Tate, R., Temtim, A., Whaley, S., & Voida, A. (2023). Enacting Data Feminism in Advocacy Data Work. In _Proceedings of the ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW)_.
 
 ### 2022
