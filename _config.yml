@@ -24,9 +24,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   PhD, Information Science
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://janet.wiki/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: astrojanet
 linkedin_username: janet-ruppert
+mastodon:
+- username: astrojanet
+  instance: infosec.exchange
 github_username: janetruppert
+twitter_username: astrojanet
 
 
 # Specifying regular theme parameters
