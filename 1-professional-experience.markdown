@@ -5,9 +5,7 @@ permalink: /work/
 image: "/images/professional-experience-photo.JPG"
 ---
 
-I am a web developer, educator, and technology evaluator. 
-
-Since 2021 I have worked as a Privacy Policy Evaluator with [Common Sense Media](https://www.commonsensemedia.org/)’s [Privacy Program](https://privacy.commonsense.org/), performing quantitative evaluations of legal policies and publishing written summaries to the program’s website. 
+I have experience in privacy evaluation and mitigation, education, and web development. In my current role, I work with teams across Apple to evaluate data collection requests and apply privacy-preserving techniques. In the past, I have worked as a Privacy Policy Evaluator with [Common Sense Media](https://www.commonsensemedia.org/)’s [Privacy Program](https://privacy.commonsense.org/), performing quantitative evaluations of legal policies and publishing written summaries to the program’s website. 
 
 I have taught several sections of Computational Reasoning I, an undergraduate Python computing course, as a teaching assistant and the primary instructor. 
 
