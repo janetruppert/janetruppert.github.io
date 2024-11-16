@@ -7,7 +7,7 @@ permalink: /pubs/
 * <span style="color: #be94c5;">**Ruppert, J.**</span>, Kling, J., Castañeda, C., Velazquez-Ramos, D., Shapiro, R. B., & Roque, R. (2023, _under review_). Drag Pedagogy for CS Educational Work: Reflections from Drag vs AI Workshops. 
 
 ### 2024
-* <span style="color: #be94c5;">**Ruppert, J.**</span>, Kumar, P. C., Howard, A., Roque, R., & Shapiro, R. B. (2024). <a href="https://doi.org/10.1080/1369118x.2024.2423345" target="_blank" rel="noopener noreferrer">Expectations vs Reality: Teenager Views of Institutional Privacy.</a>. _Information, Communication & Society_.
+* <span style="color: #be94c5;">**Ruppert, J.**</span>, Kumar, P. C., Howard, A., Roque, R., & Shapiro, R. B. (2024). <a href="https://doi.org/10.1080/1369118x.2024.2423345" target="_blank" rel="noopener noreferrer">Expectations vs Reality: Teenager Views of Institutional Privacy</a>. _Information, Communication & Society_.
 * Yu, J., Xu, T., Kelley, C., <span style="color: #be94c5;">**Ruppert, J.**</span>, & Roque, R. (2024). <a href="https://doi.org/10.3102/00346543241248464" target="_blank" rel="noopener noreferrer">Designing and Leveraging Technologies to Support Physical-Activity-based Learning Experiences for Young People: Characteristics and Opportunities</a>. _Review of Educational Research_.
 * Kumar, P. C., <span style="color: #be94c5;">**Ruppert, J.**</span>, & Susser, D. (2024, June 16-20). Privacy and Beyond: Surfacing Assumptions and Defining Goals for Privacy Research in HCI [Extended abstract]. _Human Computer Interaction Consortium (HCIC) 2024 Annual Meeting_, Delavan, WI, United States. 
 
